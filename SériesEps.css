@@ -60,6 +60,8 @@ fieldset.Episódios {
 fieldset.Episódios button {
     background-color: transparent;
     border: none;
+    display: flex;
+    flex-direction: column;
 }
 
 fieldset.Episódios a {
