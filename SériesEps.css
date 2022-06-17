@@ -15,7 +15,7 @@ header {
     font-size: 2rem;
 
     border: double 0.4% white;
-    margin: 1%;
+    margin: 0.4rem;
     display: flex;
     gap: 2%;
     align-items: center;
