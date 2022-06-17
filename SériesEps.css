@@ -48,8 +48,6 @@ header ul button a {
     color: var(--shadow);
     font-size: 1rem;
     text-decoration: none;
-
-    text-shadow: -0.2rem -0.2rem 0 white, 0.1rem -0.1rem 0 white, -0.2rem 0.2rem 0 white, 0.1rem 0.1rem 0 white;
 }
 
 fieldset.Episódios {
