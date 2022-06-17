@@ -52,4 +52,6 @@ header ul button a {
 
 fieldset.Episódios {
     border: double 0.4rem white;
+    display: flex;
+    flex-direction: column;
 }
