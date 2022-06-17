@@ -25,7 +25,7 @@ header h1 {
     color: var(--background);
     text-shadow: -0.2rem -0.2rem 0 var(--shadow), 0.1rem -0.1rem 0 var(--shadow), -0.2rem 0.2rem 0 var(--shadow), 0.1rem 0.1rem 0 var(--shadow);
     margin-left: 1%;
-    font-size: xx-large;
+    font-size: 1.8rem;
 }
 
 header h1 img {
