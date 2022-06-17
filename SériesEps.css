@@ -54,4 +54,14 @@ fieldset.Episódios {
     border: double 0.4rem white;
     display: flex;
     flex-direction: column;
+    color: white;
+}
+
+fieldset.Episódios button {
+    background-color: transparent;
+    border: none;
+}
+
+fieldset.Episódios a {
+    text-decoration: none;
 }
