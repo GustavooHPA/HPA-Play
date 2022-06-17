@@ -3,7 +3,7 @@ function MsMarvel() {
 }
 
 function Ratatouille() {
-    window.location.replace("./ratatouille.html")
+    window.location.replace("./Ratatouille.html")
 }
 
 function Totoro() {
