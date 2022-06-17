@@ -1,5 +1,5 @@
 function MsMarvel() {
-    console.log("CAPITÃ MARVEEEEEEEEEEEEL")
+    window.location.replace("./MsMarvelEps.html")
 }
 
 function Ratatouille() {
