@@ -69,4 +69,6 @@ fieldset.Episódios button {
 fieldset.Episódios a {
     text-decoration: none;
     color: white;
+    display: flex;
+    flex-direction: column;
 }
