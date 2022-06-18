@@ -53,22 +53,22 @@ header ul button a {
 
 div.Novidades {
     border: double 0.4rem white;
-    margin: 1.4rem;
+    margin: 0.4rem;
 
-    font-size: 1.4rem;
+    font-size: 1rem;
     color: white;
 
     box-sizing: border-box;
-    padding: 0.4rem;
+    padding: 0.2rem;
 
     display: flex;
     align-items: center;
-    gap: 2rem;
+    gap: 0.2rem;
 }
 
 div.Novidades img {
-    width: 17rem;
-    height: 18.9rem;
+    width: 10%;
+    height: 12%;
     border: solid 0.2rem white;
 }
 
