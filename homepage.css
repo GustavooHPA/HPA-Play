@@ -88,3 +88,9 @@ div.Ratatouille {
     flex-direction: column;
     text-align: center;
 }
+
+div.CasteloAnimado {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
