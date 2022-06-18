@@ -9,3 +9,7 @@ function Ratatouille() {
 function Totoro() {
     window.location.replace("./totoro.html")
 }
+
+function CasteloAnimado() {
+    window.location.replace("./CasteloAnimado.html")
+}
