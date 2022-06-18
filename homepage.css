@@ -66,9 +66,13 @@ div.Novidades {
     gap: 0.2rem;
 }
 
+div.Novidades h2 {
+    font-size: 0.6rem;
+}
+
 div.Novidades img {
-    width: 10%;
-    height: 12%;
+    width: 20%;
+    height: 22%;
     border: solid 0.2rem white;
 }
 
