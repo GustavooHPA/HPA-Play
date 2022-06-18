@@ -67,12 +67,12 @@ div.Novidades {
 }
 
 div.Novidades h2 {
-    font-size: 0.6rem;
+    font-size: 1rem;
 }
 
 div.Novidades img {
-    width: 20%;
-    height: 22%;
+    width: 40%;
+    height: 42%;
     border: solid 0.2rem white;
 }
 
