@@ -21,7 +21,7 @@ iframe {
 
 footer {
     display: flex;
-    gap: 3rem;
+    gap: 1.2rem;
 }
 
 footer button {
