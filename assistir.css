@@ -35,6 +35,7 @@ footer button.Próximo, footer button.Anterior {
     width: 8rem;
     height: 8rem;
     border-radius: 0;
+    background-image: image("https://i.pinimg.com/originals/72/87/23/7287230162c5b64f09a34ee19d7da119.png");
 }
 
 @media (min-width: 321px) {
