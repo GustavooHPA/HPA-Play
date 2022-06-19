@@ -13,3 +13,7 @@ function Totoro() {
 function CasteloAnimado() {
     window.location.replace("./CasteloAnimado.html")
 }
+
+function TinkerBell1() {
+    window.location.replace("./tinkerbell1.html")
+}
