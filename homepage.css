@@ -96,6 +96,12 @@ div.Ratatouille {
     text-align: center;
 }
 
+div.MeuAmigoTotoro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
 div.CasteloAnimado {
     display: flex;
     flex-direction: column;
@@ -103,6 +109,12 @@ div.CasteloAnimado {
 }
 
 div.TinkerBell1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+div.IT1 {
     display: flex;
     flex-direction: column;
     text-align: center;
