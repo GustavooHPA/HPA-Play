@@ -26,7 +26,7 @@ footer {
 
 footer button {
     background: red;
-    font-size: 3rem;
+    font-size: 2rem;
     border: double 0.6rem white;
     border-radius: 2rem;
 }
@@ -39,7 +39,7 @@ footer button a {
 footer button.Próximo, footer button.Anterior {
     width: 12rem;
     height: 12rem;
-    font-size: 0.8rem;
+    font-size: 1.4rem;
 }
 
 @media (min-width: 321px) {
