@@ -26,9 +26,9 @@ footer {
 
 footer button {
     background: rgb(102, 58, 151);
-    font-size: 2rem;
+    font-size: 1.6rem;
     border: double 0.6rem white;
-    border-radius: 2rem;
+    border-radius: 1.6rem;
 }
 
 footer button a {
