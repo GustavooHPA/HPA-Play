@@ -64,7 +64,7 @@ div.Novidades {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.6rem;
+    gap: 1rem;
 }
 
 div.NovidadesParte {
@@ -78,8 +78,8 @@ div.Novidades h2 {
 }
 
 div.Novidades img {
-    width: 4rem;
-    height: 5rem;
+    width: 10rem;
+    height: 12rem;
     border: solid 0.2rem white;
 }
 
