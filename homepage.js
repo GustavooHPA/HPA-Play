@@ -17,3 +17,7 @@ function CasteloAnimado() {
 function TinkerBell1() {
     window.location.replace("./tinkerbell1.html")
 }
+
+function IT1() {
+    window.location.replace("./It1.html")
+}
