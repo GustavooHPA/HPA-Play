@@ -1,5 +1,5 @@
-function MsMarvel() {
-    window.location.replace("./MsMarvelEps.html")
+function Heartstopper() {
+    window.location.replace("./HeartstopperEps.html")
 }
 
 function Ratatouille() {

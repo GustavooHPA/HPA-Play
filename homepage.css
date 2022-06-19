@@ -83,11 +83,10 @@ div.Novidades img {
     border: solid 0.2rem white;
 }
 
-div.MsMarvel {
+div.Heartstopper {
     display: flex;
     flex-direction: column;
     text-align: center;
-    justify-content: center;
 }
 
 div.Ratatouille {
