@@ -34,7 +34,6 @@ footer button a {
 footer button.Próximo, footer button.Anterior {
     width: 8rem;
     height: 8rem;
-    background-color: transparent;
     border-radius: 0;
 }
 
