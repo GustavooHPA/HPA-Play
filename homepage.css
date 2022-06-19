@@ -80,12 +80,6 @@ div.MsMarvel {
     display: flex;
     flex-direction: column;
     text-align: center;
-}
-
-div.Naruto {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
     justify-content: center;
 }
 
@@ -96,6 +90,12 @@ div.Ratatouille {
 }
 
 div.CasteloAnimado {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+div.TinkerBell1 {
     display: flex;
     flex-direction: column;
     text-align: center;
