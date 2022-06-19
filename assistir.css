@@ -21,7 +21,7 @@ iframe {
 
 footer {
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
 }
 
 footer button {
@@ -37,9 +37,9 @@ footer button a {
 }
 
 footer button.Próximo, footer button.Anterior {
-    width: 8rem;
-    height: 8rem;
-    border-radius: 0;
+    width: 12rem;
+    height: 12rem;
+    font-size: 0.8rem;
 }
 
 @media (min-width: 321px) {
