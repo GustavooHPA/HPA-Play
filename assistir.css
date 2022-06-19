@@ -31,6 +31,13 @@ footer button a {
     color: white;
 }
 
+footer button.Próximo, footer button.Anterior {
+    width: 8rem;
+    height: 8rem;
+    background-color: transparent;
+    border-radius: 0;
+}
+
 @media (min-width: 321px) {
     iframe {
         width: 90%;
