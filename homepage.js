@@ -25,3 +25,7 @@ function IT1() {
 function TheUmbrellaAcademy() {
     window.location.replace("./TheUmbrellaAcademyEps.html")
 }
+
+function TinkerBell2() {
+    window.location.replace("./tinkerbell2.html")
+}
