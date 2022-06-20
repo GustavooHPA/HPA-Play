@@ -29,3 +29,11 @@ function TheUmbrellaAcademy() {
 function TinkerBell2() {
     window.location.replace("./tinkerbell2.html")
 }
+
+function Barbie1() {
+    window.location.replace("./barbie1.html")
+}
+
+function Barbie2() {
+    window.location.replace("./barbie2.html")
+}
