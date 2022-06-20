@@ -37,3 +37,7 @@ function Barbie1() {
 function Barbie2() {
     window.location.replace("./barbie2.html")
 }
+
+function Barbie3() {
+    window.location.replace("./barbie3.html")
+}
