@@ -61,3 +61,11 @@ function MonsterHigh() {
 function Pokémon4() {
     window.location.replace("./pokémon4.html")
 }
+
+function DrakeAndJosh() {
+    window.location.replace("./drakeandjosh.html")
+}
+
+function BrilhanteVictória() {
+    window.location.replace("./brilhantevictória.html")
+}
