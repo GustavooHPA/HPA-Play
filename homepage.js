@@ -41,3 +41,11 @@ function Barbie2() {
 function Barbie3() {
     window.location.replace("./barbie3.html")
 }
+
+function MonsterHigh() {
+    window.location.replace("./monsterhighfilmes.hmtl")
+}
+
+function Pokémon4() {
+    window.location.replace("./pokémon4.html")
+}
