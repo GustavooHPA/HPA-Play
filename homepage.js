@@ -18,16 +18,20 @@ function TinkerBell1() {
     window.location.replace("./tinkerbell1.html")
 }
 
+function TinkerBell2() {
+    window.location.replace("./tinkerbell2.html")
+}
+
+function TinkerBell3() {
+    window.location.replace("./tinkerbell3.html")
+}
+
 function IT1() {
     window.location.replace("./It1.html")
 }
 
 function TheUmbrellaAcademy() {
     window.location.replace("./TheUmbrellaAcademyEps.html")
-}
-
-function TinkerBell2() {
-    window.location.replace("./tinkerbell2.html")
 }
 
 function Barbie1() {
@@ -40,6 +44,14 @@ function Barbie2() {
 
 function Barbie3() {
     window.location.replace("./barbie3.html")
+}
+
+function Barbie4() {
+    window.location.replace("./barbie4.html")
+}
+
+function Barbie5() {
+    window.location.replace("./barbie5.html")
 }
 
 function MonsterHigh() {
