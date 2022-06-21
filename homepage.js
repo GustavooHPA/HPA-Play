@@ -43,7 +43,7 @@ function Barbie3() {
 }
 
 function MonsterHigh() {
-    window.location.replace("./monsterhighfilmes.hmtl")
+    window.location.replace("./monsterhighfilmes.html")
 }
 
 function Pokémon4() {
