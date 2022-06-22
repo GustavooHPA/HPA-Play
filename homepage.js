@@ -66,6 +66,6 @@ function DrakeAndJosh() {
     window.location.replace("./drakeandjosh.html")
 }
 
-/* function BrilhanteVictória() {
+ function BrilhanteVictória() {
     window.location.replace("./brilhantevictória.html")
-} */
+} 
