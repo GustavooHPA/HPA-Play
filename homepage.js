@@ -70,3 +70,7 @@ function DrakeAndJosh() {
 function BrilhanteVictória() {
     window.location.replace("./brilhantevictória.html")
 } 
+
+function SerialExperimentsLain() {
+    window.location.replace("./lain.html")
+}
