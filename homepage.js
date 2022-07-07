@@ -74,3 +74,7 @@ function BrilhanteVictória() {
 function SerialExperimentsLain() {
     window.location.replace("./lain.html")
 }
+
+function TinkerBell4() {
+    window.location.replace("./tinkerbell4.html")
+}
